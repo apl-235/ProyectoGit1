@@ -7,6 +7,8 @@ public class proyectoEclipse {
 		System.out.println("hola mundo");
 		
 		int n = 0;
+		
+		double m = 4;
 	}
 	
 }
